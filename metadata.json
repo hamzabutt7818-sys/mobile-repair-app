@@ -1,0 +1,5 @@
+{
+  "name": "Mobile Repairing Sales",
+  "description": "An all-in-one application for mobile repair businesses to track sales and manage supplier parts. Features include sales logging, monthly sales filtering, total sales calculation, supplier management, and part tracking per supplier.",
+  "requestFramePermissions": []
+}
